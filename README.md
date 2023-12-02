@@ -1,6 +1,7 @@
 # JAVA-EE-8
 
 Java EE 8
+Course - https://www.linkedin.com/learning/java-ee-8-essential-training/creating-a-resource?autoSkip=true&resume=false&u=76277348
 
 ### Set up
 
