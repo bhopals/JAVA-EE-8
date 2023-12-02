@@ -61,6 +61,10 @@
   - `@ConversationScoped` - Explicitly controlled boundaries withing a JSF application
 
 - Qualifiers - Requires to resolve ambiguity, when multiple beans share the same type/scope
+
   - Used to resolve ambiguity among beans of the same type
   - Indicates a particular bean instance should be injected
   - Allows for custom qualifiers
+
+- Interceptor Methods
+  - To introduce cross cutting concerns within the BEAN/Application
